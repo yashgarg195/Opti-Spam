@@ -1,4 +1,4 @@
-# Longformer_GA
+# Opti-Spam
 
 Genetic Algorithm (GA) Feature Selection using Longformer embeddings.
 
